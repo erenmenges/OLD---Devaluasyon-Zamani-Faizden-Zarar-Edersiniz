@@ -1,1 +1,1 @@
-# Deval-asyon-Zaman-Faizden-Zarar-Edersiniz
+# Devalüasyon-Zamanı-Faizden-Zarar-Edersiniz
