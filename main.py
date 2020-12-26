@@ -1,4 +1,4 @@
-para = int(input("Faize koymak istediğiniz parayı girin:"))
+para = 100000
 faizilk = int(input("Faiz oranını girin (nokta veya virgül koyma ve 4 basamaklı gir[örn:%11,25 --> 1125]):"))
 dolar_kuru = float(input("Dolar kurunu girin:"))
 paradolar = (para / dolar_kuru)
