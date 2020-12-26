@@ -1,0 +1,1 @@
+# Deval-asyon-Zaman-Faizden-Zarar-Edersiniz
