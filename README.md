@@ -3,4 +3,4 @@ Bu script, 1 senelik faize konulan Türk Lirasından zarar edilmesi için dolar 
 
 # Kullanım
 1. Faiz oranını 100 ile çarpıp girin. Örneğin, faiz oranları %5 ise 500, %20 ise 2000 yazınız.
-2. Mevcut dolar kurunu giriniz. Yani 1 dolar = * TL
+2. Mevcut dolar kurunu giriniz. Yani 1 dolar = ? TL
